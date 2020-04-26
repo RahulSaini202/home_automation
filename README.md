@@ -1,5 +1,4 @@
 # home_automation
-========
 
 Home Automation system to remotely control devices at home.
 This is the source repo for the 'home_automation' server, which currently uses the mongodB and node.js technologies to deliver an easy to use home Automation system.
@@ -19,10 +18,17 @@ Features
 Installation
 ------------
 
-Install $project by running command:
+Install $project by command:
 
     npm install 
 
+To Run Project
+------------
+
+ $project by running command:
+
+    node app.js 
+    
 Prerequisites
 -------
 
